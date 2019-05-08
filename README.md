@@ -1,0 +1,2 @@
+# PrakSisdig
+Praktikum Sistem Digital
